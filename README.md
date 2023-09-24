@@ -1,10 +1,10 @@
-To get started, just clone the repository and run `npm install && npm run dev`:
 
-    git clone https://github.com/iaincollins/nextjs-starter.git
-    npm install
-    npm run dev
+![Screenshot 2023-09-23 113545](https://github.com/Pranav1239/login-register-ui/assets/142288127/59c02ede-adfd-42f0-9e03-3a6238ea6c46)
+<br>
+<br>
+<br>
+![Screenshot 2023-09-23 113559](https://github.com/Pranav1239/login-register-ui/assets/142288127/f17e1a6e-f798-4979-abdd-da50d635c9b9)
 
-Note: If you are running on Windows run install --noptional flag (i.e. `npm install --no-optional`) which will skip installing fsevents.
 
 ## Building and deploying in production
 
